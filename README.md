@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Supratim Dey</h1>
+<h1 align="center">Hi 👋, I'm Suprratim Dey</h1>
 <h3 align="center">A passionate Full Stack developer from Coder Community</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/supratimsd/supratimsd/assets/115398638/b69a430f-5423-40cc-84e7-9ecd7963b406">
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **deysupratim227@gmail.com**
 
-- 📄 Know about my experiences [Supratim_resume](Supratim_resume)
+- 📄 Know about my experiences [Suprratim_resume](Supratim_resume)
 
 - ⚡ Fun fact **I think I learn a topic in a very complicated way but I teach that thing in a very funky way**
 
