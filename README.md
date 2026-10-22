@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **react,js,node**
 
-- 📫 How to reach me **deysupratim227@gmail.com**
+- 📫 How to reach me **suprratim.dey.ai@gmail.com**
 
 - 📄 Know about my experiences [Suprratim_resume](Supratim_resume)
 
